@@ -1,0 +1,2 @@
+# datenschutzkonzept_qbic
+Datenschutzkonzept und Datensicherheitskonzept am QBiC
