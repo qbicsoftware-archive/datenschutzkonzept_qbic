@@ -1,2 +1,3 @@
-# datenschutzkonzept_qbic
-Datenschutzkonzept und Datensicherheitskonzept am QBiC
+# Datenschutzkonzept und Datensicherheit am QBiC
+
+Dokumentablage für die Neufassung des Datenschutzkonzepts und Datensicherheit am Zentrum für Quatitative Biologie (QBiC)
