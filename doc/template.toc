@@ -1,0 +1,15 @@
+\contentsline {chapter}{Betrieb des Zentrums f\IeC {\"u}r Quantitative Biologie (QBiC)}{5}
+\contentsline {section}{Pr\IeC {\"a}ambel}{5}
+\contentsline {chapter}{\numberline {1}Grundlagen eines Datenschutzkonzeptes gem\IeC {\"a}\IeC {\ss } LDSG}{6}
+\contentsline {section}{\numberline {1.1}Definition der Ma\IeC {\ss }nahmen gem\IeC {\"a}\IeC {\ss } \IeC {\textsection } 9 LDSG}{6}
+\contentsline {subsection}{\numberline {1.1.1}\IeC {\textsection } 9 (3) Nr. 1 : Zutrittskontrolle}{6}
+\contentsline {subsection}{\numberline {1.1.2}\IeC {\textsection } 9 (3) Nr. 2 : Datentr\IeC {\"a}gerkontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.3}\IeC {\textsection } 9 (3) Nr. 3 : Speicherkontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.4}\IeC {\textsection } 9 (3) Nr. 4 : Benutzerkontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.5}\IeC {\textsection } 9 (3) Nr. 5 : Zugriffskontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.6}\IeC {\textsection } 9 (3) Nr. 6 : \IeC {\"U}bermittlungskontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.7}\IeC {\textsection } 9 (3) Nr. 7 : Eingabekontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.8}\IeC {\textsection } 9 (3) Nr. 8 : Auftragskontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.9}\IeC {\textsection } 9 (3) Nr. 9 : Transportkontrolle}{7}
+\contentsline {subsection}{\numberline {1.1.10}\IeC {\textsection } 9 (3) Nr. 10 : Verf\IeC {\"u}gbarkeitskontrolle}{8}
+\contentsline {subsection}{\numberline {1.1.11}\IeC {\textsection } 9 (3) Nr. 11 : Organisationskontrolle}{8}
